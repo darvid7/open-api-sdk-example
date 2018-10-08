@@ -1,1 +1,0 @@
-# open-api-sdk-example
